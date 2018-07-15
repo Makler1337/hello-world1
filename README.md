@@ -6,5 +6,7 @@ short description
   
   <body>
   <p>dupa</p>
+  <h2>duza dupa</h2>
+  <h1>mega dupa</h1>
   </body>
 </html>
